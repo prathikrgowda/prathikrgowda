@@ -2,7 +2,7 @@
 
 ### Computer Science Graduate Student | Software Engineer | Full-stack Developer
 
-I'm Prathik, a Computer Science graduate student specializing in cloud services, machine learning, and full-stack development. Passionate about building technology solutions that address real-world challenges, I bring a strong foundation in software engineering principles and experience working in Agile environments.
+I'm Prathik, a Computer Science graduate student specializing in cloud services, machine learning, and full-stack development. Passionate about building technology solutions that address real-world challenges, I bring a good foundation in software engineering principles and experience working in Agile environments.
 
 ---
 
