@@ -45,22 +45,22 @@ I'm Prathik, a Computer Science graduate student specializing in cloud services,
 
 #### Cloud Platforms and Services
 
-- **Microsoft Azure**  
+-   
   ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-  - ![API Management](https://img.shields.io/badge/API_Management-%230078D4.svg?style=flat&logo=azure-devops&logoColor=white) **API Management**
-  - ![Redis Cache](https://img.shields.io/badge/Redis_Cache-%23DD0031.svg?style=flat&logo=redis&logoColor=white) **Redis Cache**
-  - ![Entra ID](https://img.shields.io/badge/Entra_ID-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white) **Entra ID**
-  - ![Automation Accounts](https://img.shields.io/badge/Automation_Accounts-%230078D4.svg?style=flat&logo=azure-devops&logoColor=white) **Automation Accounts**
-  - ![Log Analytics](https://img.shields.io/badge/Log_Analytics-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white) **Log Analytics**
-  - ![Application Insights](https://img.shields.io/badge/Application_Insights-%230078D4.svg?style=flat&logo=azure-devops&logoColor=white) **Application Insights**
+  - ![API Management](https://img.shields.io/badge/API_Management-%230078D4.svg?style=flat&logo=azure-devops&logoColor=white) 
+    ![Redis Cache](https://img.shields.io/badge/Redis_Cache-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
+    ![Entra ID](https://img.shields.io/badge/Entra_ID-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white) 
+    ![Automation Accounts](https://img.shields.io/badge/Automation_Accounts-%230078D4.svg?style=flat&logo=azure-devops&logoColor=white) 
+    ![Log Analytics](https://img.shields.io/badge/Log_Analytics-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white) 
+    ![Application Insights](https://img.shields.io/badge/Application_Insights-%230078D4.svg?style=flat&logo=azure-devops&logoColor=white) 
 
-- **Amazon Web Services (AWS)**  
+- 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-  - ![Cloud9 IDE](https://img.shields.io/badge/Cloud9_IDE-232F3E?style=flat&logo=amazon-aws&logoColor=white) **Cloud9 IDE**
-  - ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white) **S3**
-  - ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white) **EC2**
-  - ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white) **RDS**
-  - ![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat&logo=amazon-aws&logoColor=white) **VPC**
+  - ![Cloud9 IDE](https://img.shields.io/badge/Cloud9_IDE-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+    ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white) 
+    ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white) 
+    ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white) 
+    ![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
 
 ---
 
