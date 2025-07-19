@@ -19,12 +19,12 @@ I'm Prathik, a Computer Science graduate student specializing in cloud services,
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+<!-- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)-->
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+<!--![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)-->
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -44,6 +44,14 @@ I'm Prathik, a Computer Science graduate student specializing in cloud services,
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%23205081.svg?style=flat&logo=bitbucket&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=flat&logo=confluence&logoColor=white)
+![New Relic](https://img.shields.io/badge/New--Relic-%23000000.svg?style=flat&logo=newrelic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-%23FF6600.svg?style=flat&logo=splunk&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 #### Cloud Platforms and Services
 
@@ -72,7 +80,7 @@ I'm Prathik, a Computer Science graduate student specializing in cloud services,
   Leveraged Azure Cloud Services to secure APIs, automated infrastructure with Terraform and Jenkins, and contributed to a Scaled Agile environment.
 
 - **ParkZeus Project at Bosch Limited** (February 2023 - May 2023)  
-  Designed UIs for a valet parking app and ParkZeus portal using frontend frameworks, developed a database with Oracle Apex, and showcased skills in IoT and software development.
+  Designed UIs for a valet parking app and ParkZeus portal using frontend frameworks, developed a database with PostgreSQL , and showcased skills in IoT and software development.
 
 ---
 
@@ -95,6 +103,8 @@ I'm Prathik, a Computer Science graduate student specializing in cloud services,
 - **Hand Gesture Recognition and Voice Conversion**  
   Created a model using MediaPipe for hand gesture recognition and voice conversion, bridging communication for the deaf and aphonic community. Published research in Gradiva Review Journal.
 
+- **MiniURL, URL Shortening Service**  
+  Developed a full-stack URL shortening service with a Spring Boot (Java) backend and Next.js (TypeScript) frontend, backed by MySQL. Implemented custom alias generation, URL validation,      and click analytics. Containerized both services with Docker and deployed them on AWS via a basic Kubernetes cluster. Provisioned infrastructure (EC2, RDS, S3) using Terraform for           repeatable, scalable deployments.
 
 ---
 
